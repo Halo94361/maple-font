@@ -5,7 +5,7 @@
 /* U+0020-007F Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-basic-latin.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-basic-latin.woff2') format('woff2');
   unicode-range: U+0020-007F;
   font-weight: 400;
   font-display: swap;
@@ -14,7 +14,7 @@
 /* U+0020-007F Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-basic-latin.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-basic-latin.woff2') format('woff2');
   unicode-range: U+0020-007F;
   font-weight: 500;
   font-display: swap;
@@ -23,7 +23,7 @@
 /* U+0020-007F Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-basic-latin.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-basic-latin.woff2') format('woff2');
   unicode-range: U+0020-007F;
   font-weight: 700;
   font-display: swap;
@@ -32,7 +32,7 @@
 /* U+0080-00FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-latin-supp.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-latin-supp.woff2') format('woff2');
   unicode-range: U+0080-00FF;
   font-weight: 400;
   font-display: swap;
@@ -41,7 +41,7 @@
 /* U+0080-00FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-latin-supp.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-latin-supp.woff2') format('woff2');
   unicode-range: U+0080-00FF;
   font-weight: 500;
   font-display: swap;
@@ -50,7 +50,7 @@
 /* U+0080-00FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-latin-supp.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-latin-supp.woff2') format('woff2');
   unicode-range: U+0080-00FF;
   font-weight: 700;
   font-display: swap;
@@ -59,7 +59,7 @@
 /* U+2000-206F Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-punctuation.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-punctuation.woff2') format('woff2');
   unicode-range: U+2000-206F;
   font-weight: 400;
   font-display: swap;
@@ -68,7 +68,7 @@
 /* U+2000-206F Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-punctuation.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-punctuation.woff2') format('woff2');
   unicode-range: U+2000-206F;
   font-weight: 500;
   font-display: swap;
@@ -77,7 +77,7 @@
 /* U+2000-206F Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-punctuation.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-punctuation.woff2') format('woff2');
   unicode-range: U+2000-206F;
   font-weight: 700;
   font-display: swap;
@@ -86,7 +86,7 @@
 /* U+2500-25FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-box-geom.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-box-geom.woff2') format('woff2');
   unicode-range: U+2500-25FF;
   font-weight: 400;
   font-display: swap;
@@ -95,7 +95,7 @@
 /* U+2500-25FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-box-geom.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-box-geom.woff2') format('woff2');
   unicode-range: U+2500-25FF;
   font-weight: 500;
   font-display: swap;
@@ -104,7 +104,7 @@
 /* U+2500-25FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-box-geom.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-box-geom.woff2') format('woff2');
   unicode-range: U+2500-25FF;
   font-weight: 700;
   font-display: swap;
@@ -113,7 +113,7 @@
 /* U+3000-303F Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-cjk-symbols.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-cjk-symbols.woff2') format('woff2');
   unicode-range: U+3000-303F;
   font-weight: 400;
   font-display: swap;
@@ -122,7 +122,7 @@
 /* U+3000-303F Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-cjk-symbols.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-cjk-symbols.woff2') format('woff2');
   unicode-range: U+3000-303F;
   font-weight: 500;
   font-display: swap;
@@ -131,7 +131,7 @@
 /* U+3000-303F Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-cjk-symbols.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-cjk-symbols.woff2') format('woff2');
   unicode-range: U+3000-303F;
   font-weight: 700;
   font-display: swap;
@@ -140,7 +140,7 @@
 /* U+4E00-4EFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-4E00-4EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-4E00-4EFF.woff2') format('woff2');
   unicode-range: U+4E00-4EFF;
   font-weight: 400;
   font-display: swap;
@@ -149,7 +149,7 @@
 /* U+4E00-4EFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-4E00-4EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-4E00-4EFF.woff2') format('woff2');
   unicode-range: U+4E00-4EFF;
   font-weight: 500;
   font-display: swap;
@@ -158,7 +158,7 @@
 /* U+4E00-4EFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-4E00-4EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-4E00-4EFF.woff2') format('woff2');
   unicode-range: U+4E00-4EFF;
   font-weight: 700;
   font-display: swap;
@@ -167,7 +167,7 @@
 /* U+4F00-4FFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-4F00-4FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-4F00-4FFF.woff2') format('woff2');
   unicode-range: U+4F00-4FFF;
   font-weight: 400;
   font-display: swap;
@@ -176,7 +176,7 @@
 /* U+4F00-4FFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-4F00-4FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-4F00-4FFF.woff2') format('woff2');
   unicode-range: U+4F00-4FFF;
   font-weight: 500;
   font-display: swap;
@@ -185,7 +185,7 @@
 /* U+4F00-4FFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-4F00-4FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-4F00-4FFF.woff2') format('woff2');
   unicode-range: U+4F00-4FFF;
   font-weight: 700;
   font-display: swap;
@@ -194,7 +194,7 @@
 /* U+5000-50FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5000-50FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5000-50FF.woff2') format('woff2');
   unicode-range: U+5000-50FF;
   font-weight: 400;
   font-display: swap;
@@ -203,7 +203,7 @@
 /* U+5000-50FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5000-50FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5000-50FF.woff2') format('woff2');
   unicode-range: U+5000-50FF;
   font-weight: 500;
   font-display: swap;
@@ -212,7 +212,7 @@
 /* U+5000-50FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5000-50FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5000-50FF.woff2') format('woff2');
   unicode-range: U+5000-50FF;
   font-weight: 700;
   font-display: swap;
@@ -221,7 +221,7 @@
 /* U+5100-51FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5100-51FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5100-51FF.woff2') format('woff2');
   unicode-range: U+5100-51FF;
   font-weight: 400;
   font-display: swap;
@@ -230,7 +230,7 @@
 /* U+5100-51FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5100-51FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5100-51FF.woff2') format('woff2');
   unicode-range: U+5100-51FF;
   font-weight: 500;
   font-display: swap;
@@ -239,7 +239,7 @@
 /* U+5100-51FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5100-51FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5100-51FF.woff2') format('woff2');
   unicode-range: U+5100-51FF;
   font-weight: 700;
   font-display: swap;
@@ -248,7 +248,7 @@
 /* U+5200-52FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5200-52FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5200-52FF.woff2') format('woff2');
   unicode-range: U+5200-52FF;
   font-weight: 400;
   font-display: swap;
@@ -257,7 +257,7 @@
 /* U+5200-52FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5200-52FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5200-52FF.woff2') format('woff2');
   unicode-range: U+5200-52FF;
   font-weight: 500;
   font-display: swap;
@@ -266,7 +266,7 @@
 /* U+5200-52FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5200-52FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5200-52FF.woff2') format('woff2');
   unicode-range: U+5200-52FF;
   font-weight: 700;
   font-display: swap;
@@ -275,7 +275,7 @@
 /* U+5300-53FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5300-53FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5300-53FF.woff2') format('woff2');
   unicode-range: U+5300-53FF;
   font-weight: 400;
   font-display: swap;
@@ -284,7 +284,7 @@
 /* U+5300-53FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5300-53FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5300-53FF.woff2') format('woff2');
   unicode-range: U+5300-53FF;
   font-weight: 500;
   font-display: swap;
@@ -293,7 +293,7 @@
 /* U+5300-53FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5300-53FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5300-53FF.woff2') format('woff2');
   unicode-range: U+5300-53FF;
   font-weight: 700;
   font-display: swap;
@@ -302,7 +302,7 @@
 /* U+5400-54FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5400-54FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5400-54FF.woff2') format('woff2');
   unicode-range: U+5400-54FF;
   font-weight: 400;
   font-display: swap;
@@ -311,7 +311,7 @@
 /* U+5400-54FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5400-54FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5400-54FF.woff2') format('woff2');
   unicode-range: U+5400-54FF;
   font-weight: 500;
   font-display: swap;
@@ -320,7 +320,7 @@
 /* U+5400-54FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5400-54FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5400-54FF.woff2') format('woff2');
   unicode-range: U+5400-54FF;
   font-weight: 700;
   font-display: swap;
@@ -329,7 +329,7 @@
 /* U+5500-55FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5500-55FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5500-55FF.woff2') format('woff2');
   unicode-range: U+5500-55FF;
   font-weight: 400;
   font-display: swap;
@@ -338,7 +338,7 @@
 /* U+5500-55FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5500-55FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5500-55FF.woff2') format('woff2');
   unicode-range: U+5500-55FF;
   font-weight: 500;
   font-display: swap;
@@ -347,7 +347,7 @@
 /* U+5500-55FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5500-55FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5500-55FF.woff2') format('woff2');
   unicode-range: U+5500-55FF;
   font-weight: 700;
   font-display: swap;
@@ -356,7 +356,7 @@
 /* U+5600-56FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5600-56FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5600-56FF.woff2') format('woff2');
   unicode-range: U+5600-56FF;
   font-weight: 400;
   font-display: swap;
@@ -365,7 +365,7 @@
 /* U+5600-56FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5600-56FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5600-56FF.woff2') format('woff2');
   unicode-range: U+5600-56FF;
   font-weight: 500;
   font-display: swap;
@@ -374,7 +374,7 @@
 /* U+5600-56FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5600-56FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5600-56FF.woff2') format('woff2');
   unicode-range: U+5600-56FF;
   font-weight: 700;
   font-display: swap;
@@ -383,7 +383,7 @@
 /* U+5700-57FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5700-57FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5700-57FF.woff2') format('woff2');
   unicode-range: U+5700-57FF;
   font-weight: 400;
   font-display: swap;
@@ -392,7 +392,7 @@
 /* U+5700-57FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5700-57FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5700-57FF.woff2') format('woff2');
   unicode-range: U+5700-57FF;
   font-weight: 500;
   font-display: swap;
@@ -401,7 +401,7 @@
 /* U+5700-57FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5700-57FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5700-57FF.woff2') format('woff2');
   unicode-range: U+5700-57FF;
   font-weight: 700;
   font-display: swap;
@@ -410,7 +410,7 @@
 /* U+5800-58FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5800-58FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5800-58FF.woff2') format('woff2');
   unicode-range: U+5800-58FF;
   font-weight: 400;
   font-display: swap;
@@ -419,7 +419,7 @@
 /* U+5800-58FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5800-58FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5800-58FF.woff2') format('woff2');
   unicode-range: U+5800-58FF;
   font-weight: 500;
   font-display: swap;
@@ -428,7 +428,7 @@
 /* U+5800-58FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5800-58FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5800-58FF.woff2') format('woff2');
   unicode-range: U+5800-58FF;
   font-weight: 700;
   font-display: swap;
@@ -437,7 +437,7 @@
 /* U+5900-59FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5900-59FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5900-59FF.woff2') format('woff2');
   unicode-range: U+5900-59FF;
   font-weight: 400;
   font-display: swap;
@@ -446,7 +446,7 @@
 /* U+5900-59FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5900-59FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5900-59FF.woff2') format('woff2');
   unicode-range: U+5900-59FF;
   font-weight: 500;
   font-display: swap;
@@ -455,7 +455,7 @@
 /* U+5900-59FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5900-59FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5900-59FF.woff2') format('woff2');
   unicode-range: U+5900-59FF;
   font-weight: 700;
   font-display: swap;
@@ -464,7 +464,7 @@
 /* U+5A00-5AFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5A00-5AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5A00-5AFF.woff2') format('woff2');
   unicode-range: U+5A00-5AFF;
   font-weight: 400;
   font-display: swap;
@@ -473,7 +473,7 @@
 /* U+5A00-5AFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5A00-5AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5A00-5AFF.woff2') format('woff2');
   unicode-range: U+5A00-5AFF;
   font-weight: 500;
   font-display: swap;
@@ -482,7 +482,7 @@
 /* U+5A00-5AFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5A00-5AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5A00-5AFF.woff2') format('woff2');
   unicode-range: U+5A00-5AFF;
   font-weight: 700;
   font-display: swap;
@@ -491,7 +491,7 @@
 /* U+5B00-5BFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5B00-5BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5B00-5BFF.woff2') format('woff2');
   unicode-range: U+5B00-5BFF;
   font-weight: 400;
   font-display: swap;
@@ -500,7 +500,7 @@
 /* U+5B00-5BFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5B00-5BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5B00-5BFF.woff2') format('woff2');
   unicode-range: U+5B00-5BFF;
   font-weight: 500;
   font-display: swap;
@@ -509,7 +509,7 @@
 /* U+5B00-5BFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5B00-5BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5B00-5BFF.woff2') format('woff2');
   unicode-range: U+5B00-5BFF;
   font-weight: 700;
   font-display: swap;
@@ -518,7 +518,7 @@
 /* U+5C00-5CFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5C00-5CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5C00-5CFF.woff2') format('woff2');
   unicode-range: U+5C00-5CFF;
   font-weight: 400;
   font-display: swap;
@@ -527,7 +527,7 @@
 /* U+5C00-5CFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5C00-5CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5C00-5CFF.woff2') format('woff2');
   unicode-range: U+5C00-5CFF;
   font-weight: 500;
   font-display: swap;
@@ -536,7 +536,7 @@
 /* U+5C00-5CFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5C00-5CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5C00-5CFF.woff2') format('woff2');
   unicode-range: U+5C00-5CFF;
   font-weight: 700;
   font-display: swap;
@@ -545,7 +545,7 @@
 /* U+5D00-5DFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5D00-5DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5D00-5DFF.woff2') format('woff2');
   unicode-range: U+5D00-5DFF;
   font-weight: 400;
   font-display: swap;
@@ -554,7 +554,7 @@
 /* U+5D00-5DFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5D00-5DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5D00-5DFF.woff2') format('woff2');
   unicode-range: U+5D00-5DFF;
   font-weight: 500;
   font-display: swap;
@@ -563,7 +563,7 @@
 /* U+5D00-5DFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5D00-5DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5D00-5DFF.woff2') format('woff2');
   unicode-range: U+5D00-5DFF;
   font-weight: 700;
   font-display: swap;
@@ -572,7 +572,7 @@
 /* U+5E00-5EFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5E00-5EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5E00-5EFF.woff2') format('woff2');
   unicode-range: U+5E00-5EFF;
   font-weight: 400;
   font-display: swap;
@@ -581,7 +581,7 @@
 /* U+5E00-5EFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5E00-5EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5E00-5EFF.woff2') format('woff2');
   unicode-range: U+5E00-5EFF;
   font-weight: 500;
   font-display: swap;
@@ -590,7 +590,7 @@
 /* U+5E00-5EFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5E00-5EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5E00-5EFF.woff2') format('woff2');
   unicode-range: U+5E00-5EFF;
   font-weight: 700;
   font-display: swap;
@@ -599,7 +599,7 @@
 /* U+5F00-5FFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-5F00-5FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-5F00-5FFF.woff2') format('woff2');
   unicode-range: U+5F00-5FFF;
   font-weight: 400;
   font-display: swap;
@@ -608,7 +608,7 @@
 /* U+5F00-5FFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-5F00-5FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-5F00-5FFF.woff2') format('woff2');
   unicode-range: U+5F00-5FFF;
   font-weight: 500;
   font-display: swap;
@@ -617,7 +617,7 @@
 /* U+5F00-5FFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-5F00-5FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-5F00-5FFF.woff2') format('woff2');
   unicode-range: U+5F00-5FFF;
   font-weight: 700;
   font-display: swap;
@@ -626,7 +626,7 @@
 /* U+6000-60FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6000-60FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6000-60FF.woff2') format('woff2');
   unicode-range: U+6000-60FF;
   font-weight: 400;
   font-display: swap;
@@ -635,7 +635,7 @@
 /* U+6000-60FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6000-60FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6000-60FF.woff2') format('woff2');
   unicode-range: U+6000-60FF;
   font-weight: 500;
   font-display: swap;
@@ -644,7 +644,7 @@
 /* U+6000-60FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6000-60FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6000-60FF.woff2') format('woff2');
   unicode-range: U+6000-60FF;
   font-weight: 700;
   font-display: swap;
@@ -653,7 +653,7 @@
 /* U+6100-61FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6100-61FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6100-61FF.woff2') format('woff2');
   unicode-range: U+6100-61FF;
   font-weight: 400;
   font-display: swap;
@@ -662,7 +662,7 @@
 /* U+6100-61FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6100-61FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6100-61FF.woff2') format('woff2');
   unicode-range: U+6100-61FF;
   font-weight: 500;
   font-display: swap;
@@ -671,7 +671,7 @@
 /* U+6100-61FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6100-61FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6100-61FF.woff2') format('woff2');
   unicode-range: U+6100-61FF;
   font-weight: 700;
   font-display: swap;
@@ -680,7 +680,7 @@
 /* U+6200-62FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6200-62FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6200-62FF.woff2') format('woff2');
   unicode-range: U+6200-62FF;
   font-weight: 400;
   font-display: swap;
@@ -689,7 +689,7 @@
 /* U+6200-62FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6200-62FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6200-62FF.woff2') format('woff2');
   unicode-range: U+6200-62FF;
   font-weight: 500;
   font-display: swap;
@@ -698,7 +698,7 @@
 /* U+6200-62FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6200-62FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6200-62FF.woff2') format('woff2');
   unicode-range: U+6200-62FF;
   font-weight: 700;
   font-display: swap;
@@ -707,7 +707,7 @@
 /* U+6300-63FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6300-63FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6300-63FF.woff2') format('woff2');
   unicode-range: U+6300-63FF;
   font-weight: 400;
   font-display: swap;
@@ -716,7 +716,7 @@
 /* U+6300-63FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6300-63FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6300-63FF.woff2') format('woff2');
   unicode-range: U+6300-63FF;
   font-weight: 500;
   font-display: swap;
@@ -725,7 +725,7 @@
 /* U+6300-63FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6300-63FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6300-63FF.woff2') format('woff2');
   unicode-range: U+6300-63FF;
   font-weight: 700;
   font-display: swap;
@@ -734,7 +734,7 @@
 /* U+6400-64FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6400-64FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6400-64FF.woff2') format('woff2');
   unicode-range: U+6400-64FF;
   font-weight: 400;
   font-display: swap;
@@ -743,7 +743,7 @@
 /* U+6400-64FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6400-64FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6400-64FF.woff2') format('woff2');
   unicode-range: U+6400-64FF;
   font-weight: 500;
   font-display: swap;
@@ -752,7 +752,7 @@
 /* U+6400-64FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6400-64FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6400-64FF.woff2') format('woff2');
   unicode-range: U+6400-64FF;
   font-weight: 700;
   font-display: swap;
@@ -761,7 +761,7 @@
 /* U+6500-65FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6500-65FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6500-65FF.woff2') format('woff2');
   unicode-range: U+6500-65FF;
   font-weight: 400;
   font-display: swap;
@@ -770,7 +770,7 @@
 /* U+6500-65FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6500-65FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6500-65FF.woff2') format('woff2');
   unicode-range: U+6500-65FF;
   font-weight: 500;
   font-display: swap;
@@ -779,7 +779,7 @@
 /* U+6500-65FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6500-65FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6500-65FF.woff2') format('woff2');
   unicode-range: U+6500-65FF;
   font-weight: 700;
   font-display: swap;
@@ -788,7 +788,7 @@
 /* U+6600-66FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6600-66FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6600-66FF.woff2') format('woff2');
   unicode-range: U+6600-66FF;
   font-weight: 400;
   font-display: swap;
@@ -797,7 +797,7 @@
 /* U+6600-66FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6600-66FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6600-66FF.woff2') format('woff2');
   unicode-range: U+6600-66FF;
   font-weight: 500;
   font-display: swap;
@@ -806,7 +806,7 @@
 /* U+6600-66FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6600-66FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6600-66FF.woff2') format('woff2');
   unicode-range: U+6600-66FF;
   font-weight: 700;
   font-display: swap;
@@ -815,7 +815,7 @@
 /* U+6700-67FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6700-67FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6700-67FF.woff2') format('woff2');
   unicode-range: U+6700-67FF;
   font-weight: 400;
   font-display: swap;
@@ -824,7 +824,7 @@
 /* U+6700-67FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6700-67FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6700-67FF.woff2') format('woff2');
   unicode-range: U+6700-67FF;
   font-weight: 500;
   font-display: swap;
@@ -833,7 +833,7 @@
 /* U+6700-67FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6700-67FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6700-67FF.woff2') format('woff2');
   unicode-range: U+6700-67FF;
   font-weight: 700;
   font-display: swap;
@@ -842,7 +842,7 @@
 /* U+6800-68FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6800-68FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6800-68FF.woff2') format('woff2');
   unicode-range: U+6800-68FF;
   font-weight: 400;
   font-display: swap;
@@ -851,7 +851,7 @@
 /* U+6800-68FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6800-68FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6800-68FF.woff2') format('woff2');
   unicode-range: U+6800-68FF;
   font-weight: 500;
   font-display: swap;
@@ -860,7 +860,7 @@
 /* U+6800-68FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6800-68FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6800-68FF.woff2') format('woff2');
   unicode-range: U+6800-68FF;
   font-weight: 700;
   font-display: swap;
@@ -869,7 +869,7 @@
 /* U+6900-69FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6900-69FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6900-69FF.woff2') format('woff2');
   unicode-range: U+6900-69FF;
   font-weight: 400;
   font-display: swap;
@@ -878,7 +878,7 @@
 /* U+6900-69FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6900-69FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6900-69FF.woff2') format('woff2');
   unicode-range: U+6900-69FF;
   font-weight: 500;
   font-display: swap;
@@ -887,7 +887,7 @@
 /* U+6900-69FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6900-69FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6900-69FF.woff2') format('woff2');
   unicode-range: U+6900-69FF;
   font-weight: 700;
   font-display: swap;
@@ -896,7 +896,7 @@
 /* U+6A00-6AFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6A00-6AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6A00-6AFF.woff2') format('woff2');
   unicode-range: U+6A00-6AFF;
   font-weight: 400;
   font-display: swap;
@@ -905,7 +905,7 @@
 /* U+6A00-6AFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6A00-6AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6A00-6AFF.woff2') format('woff2');
   unicode-range: U+6A00-6AFF;
   font-weight: 500;
   font-display: swap;
@@ -914,7 +914,7 @@
 /* U+6A00-6AFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6A00-6AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6A00-6AFF.woff2') format('woff2');
   unicode-range: U+6A00-6AFF;
   font-weight: 700;
   font-display: swap;
@@ -923,7 +923,7 @@
 /* U+6B00-6BFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6B00-6BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6B00-6BFF.woff2') format('woff2');
   unicode-range: U+6B00-6BFF;
   font-weight: 400;
   font-display: swap;
@@ -932,7 +932,7 @@
 /* U+6B00-6BFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6B00-6BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6B00-6BFF.woff2') format('woff2');
   unicode-range: U+6B00-6BFF;
   font-weight: 500;
   font-display: swap;
@@ -941,7 +941,7 @@
 /* U+6B00-6BFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6B00-6BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6B00-6BFF.woff2') format('woff2');
   unicode-range: U+6B00-6BFF;
   font-weight: 700;
   font-display: swap;
@@ -950,7 +950,7 @@
 /* U+6C00-6CFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6C00-6CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6C00-6CFF.woff2') format('woff2');
   unicode-range: U+6C00-6CFF;
   font-weight: 400;
   font-display: swap;
@@ -959,7 +959,7 @@
 /* U+6C00-6CFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6C00-6CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6C00-6CFF.woff2') format('woff2');
   unicode-range: U+6C00-6CFF;
   font-weight: 500;
   font-display: swap;
@@ -968,7 +968,7 @@
 /* U+6C00-6CFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6C00-6CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6C00-6CFF.woff2') format('woff2');
   unicode-range: U+6C00-6CFF;
   font-weight: 700;
   font-display: swap;
@@ -977,7 +977,7 @@
 /* U+6D00-6DFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6D00-6DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6D00-6DFF.woff2') format('woff2');
   unicode-range: U+6D00-6DFF;
   font-weight: 400;
   font-display: swap;
@@ -986,7 +986,7 @@
 /* U+6D00-6DFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6D00-6DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6D00-6DFF.woff2') format('woff2');
   unicode-range: U+6D00-6DFF;
   font-weight: 500;
   font-display: swap;
@@ -995,7 +995,7 @@
 /* U+6D00-6DFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6D00-6DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6D00-6DFF.woff2') format('woff2');
   unicode-range: U+6D00-6DFF;
   font-weight: 700;
   font-display: swap;
@@ -1004,7 +1004,7 @@
 /* U+6E00-6EFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6E00-6EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6E00-6EFF.woff2') format('woff2');
   unicode-range: U+6E00-6EFF;
   font-weight: 400;
   font-display: swap;
@@ -1013,7 +1013,7 @@
 /* U+6E00-6EFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6E00-6EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6E00-6EFF.woff2') format('woff2');
   unicode-range: U+6E00-6EFF;
   font-weight: 500;
   font-display: swap;
@@ -1022,7 +1022,7 @@
 /* U+6E00-6EFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6E00-6EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6E00-6EFF.woff2') format('woff2');
   unicode-range: U+6E00-6EFF;
   font-weight: 700;
   font-display: swap;
@@ -1031,7 +1031,7 @@
 /* U+6F00-6FFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-6F00-6FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-6F00-6FFF.woff2') format('woff2');
   unicode-range: U+6F00-6FFF;
   font-weight: 400;
   font-display: swap;
@@ -1040,7 +1040,7 @@
 /* U+6F00-6FFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-6F00-6FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-6F00-6FFF.woff2') format('woff2');
   unicode-range: U+6F00-6FFF;
   font-weight: 500;
   font-display: swap;
@@ -1049,7 +1049,7 @@
 /* U+6F00-6FFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-6F00-6FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-6F00-6FFF.woff2') format('woff2');
   unicode-range: U+6F00-6FFF;
   font-weight: 700;
   font-display: swap;
@@ -1058,7 +1058,7 @@
 /* U+7000-70FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7000-70FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7000-70FF.woff2') format('woff2');
   unicode-range: U+7000-70FF;
   font-weight: 400;
   font-display: swap;
@@ -1067,7 +1067,7 @@
 /* U+7000-70FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7000-70FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7000-70FF.woff2') format('woff2');
   unicode-range: U+7000-70FF;
   font-weight: 500;
   font-display: swap;
@@ -1076,7 +1076,7 @@
 /* U+7000-70FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7000-70FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7000-70FF.woff2') format('woff2');
   unicode-range: U+7000-70FF;
   font-weight: 700;
   font-display: swap;
@@ -1085,7 +1085,7 @@
 /* U+7100-71FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7100-71FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7100-71FF.woff2') format('woff2');
   unicode-range: U+7100-71FF;
   font-weight: 400;
   font-display: swap;
@@ -1094,7 +1094,7 @@
 /* U+7100-71FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7100-71FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7100-71FF.woff2') format('woff2');
   unicode-range: U+7100-71FF;
   font-weight: 500;
   font-display: swap;
@@ -1103,7 +1103,7 @@
 /* U+7100-71FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7100-71FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7100-71FF.woff2') format('woff2');
   unicode-range: U+7100-71FF;
   font-weight: 700;
   font-display: swap;
@@ -1112,7 +1112,7 @@
 /* U+7200-72FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7200-72FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7200-72FF.woff2') format('woff2');
   unicode-range: U+7200-72FF;
   font-weight: 400;
   font-display: swap;
@@ -1121,7 +1121,7 @@
 /* U+7200-72FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7200-72FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7200-72FF.woff2') format('woff2');
   unicode-range: U+7200-72FF;
   font-weight: 500;
   font-display: swap;
@@ -1130,7 +1130,7 @@
 /* U+7200-72FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7200-72FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7200-72FF.woff2') format('woff2');
   unicode-range: U+7200-72FF;
   font-weight: 700;
   font-display: swap;
@@ -1139,7 +1139,7 @@
 /* U+7300-73FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7300-73FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7300-73FF.woff2') format('woff2');
   unicode-range: U+7300-73FF;
   font-weight: 400;
   font-display: swap;
@@ -1148,7 +1148,7 @@
 /* U+7300-73FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7300-73FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7300-73FF.woff2') format('woff2');
   unicode-range: U+7300-73FF;
   font-weight: 500;
   font-display: swap;
@@ -1157,7 +1157,7 @@
 /* U+7300-73FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7300-73FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7300-73FF.woff2') format('woff2');
   unicode-range: U+7300-73FF;
   font-weight: 700;
   font-display: swap;
@@ -1166,7 +1166,7 @@
 /* U+7400-74FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7400-74FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7400-74FF.woff2') format('woff2');
   unicode-range: U+7400-74FF;
   font-weight: 400;
   font-display: swap;
@@ -1175,7 +1175,7 @@
 /* U+7400-74FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7400-74FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7400-74FF.woff2') format('woff2');
   unicode-range: U+7400-74FF;
   font-weight: 500;
   font-display: swap;
@@ -1184,7 +1184,7 @@
 /* U+7400-74FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7400-74FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7400-74FF.woff2') format('woff2');
   unicode-range: U+7400-74FF;
   font-weight: 700;
   font-display: swap;
@@ -1193,7 +1193,7 @@
 /* U+7500-75FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7500-75FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7500-75FF.woff2') format('woff2');
   unicode-range: U+7500-75FF;
   font-weight: 400;
   font-display: swap;
@@ -1202,7 +1202,7 @@
 /* U+7500-75FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7500-75FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7500-75FF.woff2') format('woff2');
   unicode-range: U+7500-75FF;
   font-weight: 500;
   font-display: swap;
@@ -1211,7 +1211,7 @@
 /* U+7500-75FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7500-75FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7500-75FF.woff2') format('woff2');
   unicode-range: U+7500-75FF;
   font-weight: 700;
   font-display: swap;
@@ -1220,7 +1220,7 @@
 /* U+7600-76FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7600-76FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7600-76FF.woff2') format('woff2');
   unicode-range: U+7600-76FF;
   font-weight: 400;
   font-display: swap;
@@ -1229,7 +1229,7 @@
 /* U+7600-76FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7600-76FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7600-76FF.woff2') format('woff2');
   unicode-range: U+7600-76FF;
   font-weight: 500;
   font-display: swap;
@@ -1238,7 +1238,7 @@
 /* U+7600-76FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7600-76FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7600-76FF.woff2') format('woff2');
   unicode-range: U+7600-76FF;
   font-weight: 700;
   font-display: swap;
@@ -1247,7 +1247,7 @@
 /* U+7700-77FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7700-77FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7700-77FF.woff2') format('woff2');
   unicode-range: U+7700-77FF;
   font-weight: 400;
   font-display: swap;
@@ -1256,7 +1256,7 @@
 /* U+7700-77FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7700-77FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7700-77FF.woff2') format('woff2');
   unicode-range: U+7700-77FF;
   font-weight: 500;
   font-display: swap;
@@ -1265,7 +1265,7 @@
 /* U+7700-77FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7700-77FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7700-77FF.woff2') format('woff2');
   unicode-range: U+7700-77FF;
   font-weight: 700;
   font-display: swap;
@@ -1274,7 +1274,7 @@
 /* U+7800-78FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7800-78FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7800-78FF.woff2') format('woff2');
   unicode-range: U+7800-78FF;
   font-weight: 400;
   font-display: swap;
@@ -1283,7 +1283,7 @@
 /* U+7800-78FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7800-78FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7800-78FF.woff2') format('woff2');
   unicode-range: U+7800-78FF;
   font-weight: 500;
   font-display: swap;
@@ -1292,7 +1292,7 @@
 /* U+7800-78FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7800-78FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7800-78FF.woff2') format('woff2');
   unicode-range: U+7800-78FF;
   font-weight: 700;
   font-display: swap;
@@ -1301,7 +1301,7 @@
 /* U+7900-79FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7900-79FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7900-79FF.woff2') format('woff2');
   unicode-range: U+7900-79FF;
   font-weight: 400;
   font-display: swap;
@@ -1310,7 +1310,7 @@
 /* U+7900-79FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7900-79FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7900-79FF.woff2') format('woff2');
   unicode-range: U+7900-79FF;
   font-weight: 500;
   font-display: swap;
@@ -1319,7 +1319,7 @@
 /* U+7900-79FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7900-79FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7900-79FF.woff2') format('woff2');
   unicode-range: U+7900-79FF;
   font-weight: 700;
   font-display: swap;
@@ -1328,7 +1328,7 @@
 /* U+7A00-7AFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7A00-7AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7A00-7AFF.woff2') format('woff2');
   unicode-range: U+7A00-7AFF;
   font-weight: 400;
   font-display: swap;
@@ -1337,7 +1337,7 @@
 /* U+7A00-7AFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7A00-7AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7A00-7AFF.woff2') format('woff2');
   unicode-range: U+7A00-7AFF;
   font-weight: 500;
   font-display: swap;
@@ -1346,7 +1346,7 @@
 /* U+7A00-7AFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7A00-7AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7A00-7AFF.woff2') format('woff2');
   unicode-range: U+7A00-7AFF;
   font-weight: 700;
   font-display: swap;
@@ -1355,7 +1355,7 @@
 /* U+7B00-7BFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7B00-7BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7B00-7BFF.woff2') format('woff2');
   unicode-range: U+7B00-7BFF;
   font-weight: 400;
   font-display: swap;
@@ -1364,7 +1364,7 @@
 /* U+7B00-7BFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7B00-7BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7B00-7BFF.woff2') format('woff2');
   unicode-range: U+7B00-7BFF;
   font-weight: 500;
   font-display: swap;
@@ -1373,7 +1373,7 @@
 /* U+7B00-7BFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7B00-7BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7B00-7BFF.woff2') format('woff2');
   unicode-range: U+7B00-7BFF;
   font-weight: 700;
   font-display: swap;
@@ -1382,7 +1382,7 @@
 /* U+7C00-7CFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7C00-7CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7C00-7CFF.woff2') format('woff2');
   unicode-range: U+7C00-7CFF;
   font-weight: 400;
   font-display: swap;
@@ -1391,7 +1391,7 @@
 /* U+7C00-7CFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7C00-7CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7C00-7CFF.woff2') format('woff2');
   unicode-range: U+7C00-7CFF;
   font-weight: 500;
   font-display: swap;
@@ -1400,7 +1400,7 @@
 /* U+7C00-7CFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7C00-7CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7C00-7CFF.woff2') format('woff2');
   unicode-range: U+7C00-7CFF;
   font-weight: 700;
   font-display: swap;
@@ -1409,7 +1409,7 @@
 /* U+7D00-7DFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7D00-7DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7D00-7DFF.woff2') format('woff2');
   unicode-range: U+7D00-7DFF;
   font-weight: 400;
   font-display: swap;
@@ -1418,7 +1418,7 @@
 /* U+7D00-7DFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7D00-7DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7D00-7DFF.woff2') format('woff2');
   unicode-range: U+7D00-7DFF;
   font-weight: 500;
   font-display: swap;
@@ -1427,7 +1427,7 @@
 /* U+7D00-7DFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7D00-7DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7D00-7DFF.woff2') format('woff2');
   unicode-range: U+7D00-7DFF;
   font-weight: 700;
   font-display: swap;
@@ -1436,7 +1436,7 @@
 /* U+7E00-7EFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7E00-7EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7E00-7EFF.woff2') format('woff2');
   unicode-range: U+7E00-7EFF;
   font-weight: 400;
   font-display: swap;
@@ -1445,7 +1445,7 @@
 /* U+7E00-7EFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7E00-7EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7E00-7EFF.woff2') format('woff2');
   unicode-range: U+7E00-7EFF;
   font-weight: 500;
   font-display: swap;
@@ -1454,7 +1454,7 @@
 /* U+7E00-7EFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7E00-7EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7E00-7EFF.woff2') format('woff2');
   unicode-range: U+7E00-7EFF;
   font-weight: 700;
   font-display: swap;
@@ -1463,7 +1463,7 @@
 /* U+7F00-7FFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-7F00-7FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-7F00-7FFF.woff2') format('woff2');
   unicode-range: U+7F00-7FFF;
   font-weight: 400;
   font-display: swap;
@@ -1472,7 +1472,7 @@
 /* U+7F00-7FFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-7F00-7FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-7F00-7FFF.woff2') format('woff2');
   unicode-range: U+7F00-7FFF;
   font-weight: 500;
   font-display: swap;
@@ -1481,7 +1481,7 @@
 /* U+7F00-7FFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-7F00-7FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-7F00-7FFF.woff2') format('woff2');
   unicode-range: U+7F00-7FFF;
   font-weight: 700;
   font-display: swap;
@@ -1490,7 +1490,7 @@
 /* U+8000-80FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8000-80FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8000-80FF.woff2') format('woff2');
   unicode-range: U+8000-80FF;
   font-weight: 400;
   font-display: swap;
@@ -1499,7 +1499,7 @@
 /* U+8000-80FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8000-80FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8000-80FF.woff2') format('woff2');
   unicode-range: U+8000-80FF;
   font-weight: 500;
   font-display: swap;
@@ -1508,7 +1508,7 @@
 /* U+8000-80FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8000-80FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8000-80FF.woff2') format('woff2');
   unicode-range: U+8000-80FF;
   font-weight: 700;
   font-display: swap;
@@ -1517,7 +1517,7 @@
 /* U+8100-81FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8100-81FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8100-81FF.woff2') format('woff2');
   unicode-range: U+8100-81FF;
   font-weight: 400;
   font-display: swap;
@@ -1526,7 +1526,7 @@
 /* U+8100-81FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8100-81FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8100-81FF.woff2') format('woff2');
   unicode-range: U+8100-81FF;
   font-weight: 500;
   font-display: swap;
@@ -1535,7 +1535,7 @@
 /* U+8100-81FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8100-81FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8100-81FF.woff2') format('woff2');
   unicode-range: U+8100-81FF;
   font-weight: 700;
   font-display: swap;
@@ -1544,7 +1544,7 @@
 /* U+8200-82FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8200-82FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8200-82FF.woff2') format('woff2');
   unicode-range: U+8200-82FF;
   font-weight: 400;
   font-display: swap;
@@ -1553,7 +1553,7 @@
 /* U+8200-82FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8200-82FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8200-82FF.woff2') format('woff2');
   unicode-range: U+8200-82FF;
   font-weight: 500;
   font-display: swap;
@@ -1562,7 +1562,7 @@
 /* U+8200-82FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8200-82FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8200-82FF.woff2') format('woff2');
   unicode-range: U+8200-82FF;
   font-weight: 700;
   font-display: swap;
@@ -1571,7 +1571,7 @@
 /* U+8300-83FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8300-83FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8300-83FF.woff2') format('woff2');
   unicode-range: U+8300-83FF;
   font-weight: 400;
   font-display: swap;
@@ -1580,7 +1580,7 @@
 /* U+8300-83FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8300-83FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8300-83FF.woff2') format('woff2');
   unicode-range: U+8300-83FF;
   font-weight: 500;
   font-display: swap;
@@ -1589,7 +1589,7 @@
 /* U+8300-83FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8300-83FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8300-83FF.woff2') format('woff2');
   unicode-range: U+8300-83FF;
   font-weight: 700;
   font-display: swap;
@@ -1598,7 +1598,7 @@
 /* U+8400-84FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8400-84FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8400-84FF.woff2') format('woff2');
   unicode-range: U+8400-84FF;
   font-weight: 400;
   font-display: swap;
@@ -1607,7 +1607,7 @@
 /* U+8400-84FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8400-84FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8400-84FF.woff2') format('woff2');
   unicode-range: U+8400-84FF;
   font-weight: 500;
   font-display: swap;
@@ -1616,7 +1616,7 @@
 /* U+8400-84FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8400-84FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8400-84FF.woff2') format('woff2');
   unicode-range: U+8400-84FF;
   font-weight: 700;
   font-display: swap;
@@ -1625,7 +1625,7 @@
 /* U+8500-85FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8500-85FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8500-85FF.woff2') format('woff2');
   unicode-range: U+8500-85FF;
   font-weight: 400;
   font-display: swap;
@@ -1634,7 +1634,7 @@
 /* U+8500-85FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8500-85FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8500-85FF.woff2') format('woff2');
   unicode-range: U+8500-85FF;
   font-weight: 500;
   font-display: swap;
@@ -1643,7 +1643,7 @@
 /* U+8500-85FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8500-85FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8500-85FF.woff2') format('woff2');
   unicode-range: U+8500-85FF;
   font-weight: 700;
   font-display: swap;
@@ -1652,7 +1652,7 @@
 /* U+8600-86FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8600-86FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8600-86FF.woff2') format('woff2');
   unicode-range: U+8600-86FF;
   font-weight: 400;
   font-display: swap;
@@ -1661,7 +1661,7 @@
 /* U+8600-86FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8600-86FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8600-86FF.woff2') format('woff2');
   unicode-range: U+8600-86FF;
   font-weight: 500;
   font-display: swap;
@@ -1670,7 +1670,7 @@
 /* U+8600-86FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8600-86FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8600-86FF.woff2') format('woff2');
   unicode-range: U+8600-86FF;
   font-weight: 700;
   font-display: swap;
@@ -1679,7 +1679,7 @@
 /* U+8700-87FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8700-87FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8700-87FF.woff2') format('woff2');
   unicode-range: U+8700-87FF;
   font-weight: 400;
   font-display: swap;
@@ -1688,7 +1688,7 @@
 /* U+8700-87FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8700-87FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8700-87FF.woff2') format('woff2');
   unicode-range: U+8700-87FF;
   font-weight: 500;
   font-display: swap;
@@ -1697,7 +1697,7 @@
 /* U+8700-87FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8700-87FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8700-87FF.woff2') format('woff2');
   unicode-range: U+8700-87FF;
   font-weight: 700;
   font-display: swap;
@@ -1706,7 +1706,7 @@
 /* U+8800-88FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8800-88FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8800-88FF.woff2') format('woff2');
   unicode-range: U+8800-88FF;
   font-weight: 400;
   font-display: swap;
@@ -1715,7 +1715,7 @@
 /* U+8800-88FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8800-88FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8800-88FF.woff2') format('woff2');
   unicode-range: U+8800-88FF;
   font-weight: 500;
   font-display: swap;
@@ -1724,7 +1724,7 @@
 /* U+8800-88FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8800-88FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8800-88FF.woff2') format('woff2');
   unicode-range: U+8800-88FF;
   font-weight: 700;
   font-display: swap;
@@ -1733,7 +1733,7 @@
 /* U+8900-89FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8900-89FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8900-89FF.woff2') format('woff2');
   unicode-range: U+8900-89FF;
   font-weight: 400;
   font-display: swap;
@@ -1742,7 +1742,7 @@
 /* U+8900-89FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8900-89FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8900-89FF.woff2') format('woff2');
   unicode-range: U+8900-89FF;
   font-weight: 500;
   font-display: swap;
@@ -1751,7 +1751,7 @@
 /* U+8900-89FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8900-89FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8900-89FF.woff2') format('woff2');
   unicode-range: U+8900-89FF;
   font-weight: 700;
   font-display: swap;
@@ -1760,7 +1760,7 @@
 /* U+8A00-8AFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8A00-8AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8A00-8AFF.woff2') format('woff2');
   unicode-range: U+8A00-8AFF;
   font-weight: 400;
   font-display: swap;
@@ -1769,7 +1769,7 @@
 /* U+8A00-8AFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8A00-8AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8A00-8AFF.woff2') format('woff2');
   unicode-range: U+8A00-8AFF;
   font-weight: 500;
   font-display: swap;
@@ -1778,7 +1778,7 @@
 /* U+8A00-8AFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8A00-8AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8A00-8AFF.woff2') format('woff2');
   unicode-range: U+8A00-8AFF;
   font-weight: 700;
   font-display: swap;
@@ -1787,7 +1787,7 @@
 /* U+8B00-8BFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8B00-8BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8B00-8BFF.woff2') format('woff2');
   unicode-range: U+8B00-8BFF;
   font-weight: 400;
   font-display: swap;
@@ -1796,7 +1796,7 @@
 /* U+8B00-8BFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8B00-8BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8B00-8BFF.woff2') format('woff2');
   unicode-range: U+8B00-8BFF;
   font-weight: 500;
   font-display: swap;
@@ -1805,7 +1805,7 @@
 /* U+8B00-8BFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8B00-8BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8B00-8BFF.woff2') format('woff2');
   unicode-range: U+8B00-8BFF;
   font-weight: 700;
   font-display: swap;
@@ -1814,7 +1814,7 @@
 /* U+8C00-8CFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8C00-8CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8C00-8CFF.woff2') format('woff2');
   unicode-range: U+8C00-8CFF;
   font-weight: 400;
   font-display: swap;
@@ -1823,7 +1823,7 @@
 /* U+8C00-8CFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8C00-8CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8C00-8CFF.woff2') format('woff2');
   unicode-range: U+8C00-8CFF;
   font-weight: 500;
   font-display: swap;
@@ -1832,7 +1832,7 @@
 /* U+8C00-8CFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8C00-8CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8C00-8CFF.woff2') format('woff2');
   unicode-range: U+8C00-8CFF;
   font-weight: 700;
   font-display: swap;
@@ -1841,7 +1841,7 @@
 /* U+8D00-8DFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8D00-8DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8D00-8DFF.woff2') format('woff2');
   unicode-range: U+8D00-8DFF;
   font-weight: 400;
   font-display: swap;
@@ -1850,7 +1850,7 @@
 /* U+8D00-8DFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8D00-8DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8D00-8DFF.woff2') format('woff2');
   unicode-range: U+8D00-8DFF;
   font-weight: 500;
   font-display: swap;
@@ -1859,7 +1859,7 @@
 /* U+8D00-8DFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8D00-8DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8D00-8DFF.woff2') format('woff2');
   unicode-range: U+8D00-8DFF;
   font-weight: 700;
   font-display: swap;
@@ -1868,7 +1868,7 @@
 /* U+8E00-8EFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8E00-8EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8E00-8EFF.woff2') format('woff2');
   unicode-range: U+8E00-8EFF;
   font-weight: 400;
   font-display: swap;
@@ -1877,7 +1877,7 @@
 /* U+8E00-8EFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8E00-8EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8E00-8EFF.woff2') format('woff2');
   unicode-range: U+8E00-8EFF;
   font-weight: 500;
   font-display: swap;
@@ -1886,7 +1886,7 @@
 /* U+8E00-8EFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8E00-8EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8E00-8EFF.woff2') format('woff2');
   unicode-range: U+8E00-8EFF;
   font-weight: 700;
   font-display: swap;
@@ -1895,7 +1895,7 @@
 /* U+8F00-8FFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-8F00-8FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-8F00-8FFF.woff2') format('woff2');
   unicode-range: U+8F00-8FFF;
   font-weight: 400;
   font-display: swap;
@@ -1904,7 +1904,7 @@
 /* U+8F00-8FFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-8F00-8FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-8F00-8FFF.woff2') format('woff2');
   unicode-range: U+8F00-8FFF;
   font-weight: 500;
   font-display: swap;
@@ -1913,7 +1913,7 @@
 /* U+8F00-8FFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-8F00-8FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-8F00-8FFF.woff2') format('woff2');
   unicode-range: U+8F00-8FFF;
   font-weight: 700;
   font-display: swap;
@@ -1922,7 +1922,7 @@
 /* U+9000-90FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9000-90FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9000-90FF.woff2') format('woff2');
   unicode-range: U+9000-90FF;
   font-weight: 400;
   font-display: swap;
@@ -1931,7 +1931,7 @@
 /* U+9000-90FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9000-90FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9000-90FF.woff2') format('woff2');
   unicode-range: U+9000-90FF;
   font-weight: 500;
   font-display: swap;
@@ -1940,7 +1940,7 @@
 /* U+9000-90FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9000-90FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9000-90FF.woff2') format('woff2');
   unicode-range: U+9000-90FF;
   font-weight: 700;
   font-display: swap;
@@ -1949,7 +1949,7 @@
 /* U+9100-91FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9100-91FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9100-91FF.woff2') format('woff2');
   unicode-range: U+9100-91FF;
   font-weight: 400;
   font-display: swap;
@@ -1958,7 +1958,7 @@
 /* U+9100-91FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9100-91FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9100-91FF.woff2') format('woff2');
   unicode-range: U+9100-91FF;
   font-weight: 500;
   font-display: swap;
@@ -1967,7 +1967,7 @@
 /* U+9100-91FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9100-91FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9100-91FF.woff2') format('woff2');
   unicode-range: U+9100-91FF;
   font-weight: 700;
   font-display: swap;
@@ -1976,7 +1976,7 @@
 /* U+9200-92FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9200-92FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9200-92FF.woff2') format('woff2');
   unicode-range: U+9200-92FF;
   font-weight: 400;
   font-display: swap;
@@ -1985,7 +1985,7 @@
 /* U+9200-92FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9200-92FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9200-92FF.woff2') format('woff2');
   unicode-range: U+9200-92FF;
   font-weight: 500;
   font-display: swap;
@@ -1994,7 +1994,7 @@
 /* U+9200-92FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9200-92FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9200-92FF.woff2') format('woff2');
   unicode-range: U+9200-92FF;
   font-weight: 700;
   font-display: swap;
@@ -2003,7 +2003,7 @@
 /* U+9300-93FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9300-93FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9300-93FF.woff2') format('woff2');
   unicode-range: U+9300-93FF;
   font-weight: 400;
   font-display: swap;
@@ -2012,7 +2012,7 @@
 /* U+9300-93FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9300-93FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9300-93FF.woff2') format('woff2');
   unicode-range: U+9300-93FF;
   font-weight: 500;
   font-display: swap;
@@ -2021,7 +2021,7 @@
 /* U+9300-93FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9300-93FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9300-93FF.woff2') format('woff2');
   unicode-range: U+9300-93FF;
   font-weight: 700;
   font-display: swap;
@@ -2030,7 +2030,7 @@
 /* U+9400-94FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9400-94FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9400-94FF.woff2') format('woff2');
   unicode-range: U+9400-94FF;
   font-weight: 400;
   font-display: swap;
@@ -2039,7 +2039,7 @@
 /* U+9400-94FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9400-94FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9400-94FF.woff2') format('woff2');
   unicode-range: U+9400-94FF;
   font-weight: 500;
   font-display: swap;
@@ -2048,7 +2048,7 @@
 /* U+9400-94FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9400-94FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9400-94FF.woff2') format('woff2');
   unicode-range: U+9400-94FF;
   font-weight: 700;
   font-display: swap;
@@ -2057,7 +2057,7 @@
 /* U+9500-95FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9500-95FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9500-95FF.woff2') format('woff2');
   unicode-range: U+9500-95FF;
   font-weight: 400;
   font-display: swap;
@@ -2066,7 +2066,7 @@
 /* U+9500-95FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9500-95FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9500-95FF.woff2') format('woff2');
   unicode-range: U+9500-95FF;
   font-weight: 500;
   font-display: swap;
@@ -2075,7 +2075,7 @@
 /* U+9500-95FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9500-95FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9500-95FF.woff2') format('woff2');
   unicode-range: U+9500-95FF;
   font-weight: 700;
   font-display: swap;
@@ -2084,7 +2084,7 @@
 /* U+9600-96FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9600-96FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9600-96FF.woff2') format('woff2');
   unicode-range: U+9600-96FF;
   font-weight: 400;
   font-display: swap;
@@ -2093,7 +2093,7 @@
 /* U+9600-96FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9600-96FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9600-96FF.woff2') format('woff2');
   unicode-range: U+9600-96FF;
   font-weight: 500;
   font-display: swap;
@@ -2102,7 +2102,7 @@
 /* U+9600-96FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9600-96FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9600-96FF.woff2') format('woff2');
   unicode-range: U+9600-96FF;
   font-weight: 700;
   font-display: swap;
@@ -2111,7 +2111,7 @@
 /* U+9700-97FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9700-97FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9700-97FF.woff2') format('woff2');
   unicode-range: U+9700-97FF;
   font-weight: 400;
   font-display: swap;
@@ -2120,7 +2120,7 @@
 /* U+9700-97FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9700-97FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9700-97FF.woff2') format('woff2');
   unicode-range: U+9700-97FF;
   font-weight: 500;
   font-display: swap;
@@ -2129,7 +2129,7 @@
 /* U+9700-97FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9700-97FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9700-97FF.woff2') format('woff2');
   unicode-range: U+9700-97FF;
   font-weight: 700;
   font-display: swap;
@@ -2138,7 +2138,7 @@
 /* U+9800-98FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9800-98FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9800-98FF.woff2') format('woff2');
   unicode-range: U+9800-98FF;
   font-weight: 400;
   font-display: swap;
@@ -2147,7 +2147,7 @@
 /* U+9800-98FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9800-98FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9800-98FF.woff2') format('woff2');
   unicode-range: U+9800-98FF;
   font-weight: 500;
   font-display: swap;
@@ -2156,7 +2156,7 @@
 /* U+9800-98FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9800-98FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9800-98FF.woff2') format('woff2');
   unicode-range: U+9800-98FF;
   font-weight: 700;
   font-display: swap;
@@ -2165,7 +2165,7 @@
 /* U+9900-99FF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9900-99FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9900-99FF.woff2') format('woff2');
   unicode-range: U+9900-99FF;
   font-weight: 400;
   font-display: swap;
@@ -2174,7 +2174,7 @@
 /* U+9900-99FF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9900-99FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9900-99FF.woff2') format('woff2');
   unicode-range: U+9900-99FF;
   font-weight: 500;
   font-display: swap;
@@ -2183,7 +2183,7 @@
 /* U+9900-99FF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9900-99FF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9900-99FF.woff2') format('woff2');
   unicode-range: U+9900-99FF;
   font-weight: 700;
   font-display: swap;
@@ -2192,7 +2192,7 @@
 /* U+9A00-9AFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9A00-9AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9A00-9AFF.woff2') format('woff2');
   unicode-range: U+9A00-9AFF;
   font-weight: 400;
   font-display: swap;
@@ -2201,7 +2201,7 @@
 /* U+9A00-9AFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9A00-9AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9A00-9AFF.woff2') format('woff2');
   unicode-range: U+9A00-9AFF;
   font-weight: 500;
   font-display: swap;
@@ -2210,7 +2210,7 @@
 /* U+9A00-9AFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9A00-9AFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9A00-9AFF.woff2') format('woff2');
   unicode-range: U+9A00-9AFF;
   font-weight: 700;
   font-display: swap;
@@ -2219,7 +2219,7 @@
 /* U+9B00-9BFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9B00-9BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9B00-9BFF.woff2') format('woff2');
   unicode-range: U+9B00-9BFF;
   font-weight: 400;
   font-display: swap;
@@ -2228,7 +2228,7 @@
 /* U+9B00-9BFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9B00-9BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9B00-9BFF.woff2') format('woff2');
   unicode-range: U+9B00-9BFF;
   font-weight: 500;
   font-display: swap;
@@ -2237,7 +2237,7 @@
 /* U+9B00-9BFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9B00-9BFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9B00-9BFF.woff2') format('woff2');
   unicode-range: U+9B00-9BFF;
   font-weight: 700;
   font-display: swap;
@@ -2246,7 +2246,7 @@
 /* U+9C00-9CFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9C00-9CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9C00-9CFF.woff2') format('woff2');
   unicode-range: U+9C00-9CFF;
   font-weight: 400;
   font-display: swap;
@@ -2255,7 +2255,7 @@
 /* U+9C00-9CFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9C00-9CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9C00-9CFF.woff2') format('woff2');
   unicode-range: U+9C00-9CFF;
   font-weight: 500;
   font-display: swap;
@@ -2264,7 +2264,7 @@
 /* U+9C00-9CFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9C00-9CFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9C00-9CFF.woff2') format('woff2');
   unicode-range: U+9C00-9CFF;
   font-weight: 700;
   font-display: swap;
@@ -2273,7 +2273,7 @@
 /* U+9D00-9DFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9D00-9DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9D00-9DFF.woff2') format('woff2');
   unicode-range: U+9D00-9DFF;
   font-weight: 400;
   font-display: swap;
@@ -2282,7 +2282,7 @@
 /* U+9D00-9DFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9D00-9DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9D00-9DFF.woff2') format('woff2');
   unicode-range: U+9D00-9DFF;
   font-weight: 500;
   font-display: swap;
@@ -2291,7 +2291,7 @@
 /* U+9D00-9DFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9D00-9DFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9D00-9DFF.woff2') format('woff2');
   unicode-range: U+9D00-9DFF;
   font-weight: 700;
   font-display: swap;
@@ -2300,7 +2300,7 @@
 /* U+9E00-9EFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9E00-9EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9E00-9EFF.woff2') format('woff2');
   unicode-range: U+9E00-9EFF;
   font-weight: 400;
   font-display: swap;
@@ -2309,7 +2309,7 @@
 /* U+9E00-9EFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9E00-9EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9E00-9EFF.woff2') format('woff2');
   unicode-range: U+9E00-9EFF;
   font-weight: 500;
   font-display: swap;
@@ -2318,7 +2318,7 @@
 /* U+9E00-9EFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9E00-9EFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9E00-9EFF.woff2') format('woff2');
   unicode-range: U+9E00-9EFF;
   font-weight: 700;
   font-display: swap;
@@ -2327,7 +2327,7 @@
 /* U+9F00-9FFF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-9F00-9FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-9F00-9FFF.woff2') format('woff2');
   unicode-range: U+9F00-9FFF;
   font-weight: 400;
   font-display: swap;
@@ -2336,7 +2336,7 @@
 /* U+9F00-9FFF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-9F00-9FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-9F00-9FFF.woff2') format('woff2');
   unicode-range: U+9F00-9FFF;
   font-weight: 500;
   font-display: swap;
@@ -2345,7 +2345,7 @@
 /* U+9F00-9FFF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-9F00-9FFF.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-9F00-9FFF.woff2') format('woff2');
   unicode-range: U+9F00-9FFF;
   font-weight: 700;
   font-display: swap;
@@ -2378,7 +2378,7 @@
 /* U+FF00-FFEF Regular */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Regular-half-full.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Regular-half-full.woff2') format('woff2');
   unicode-range: U+FF00-FFEF;
   font-weight: 400;
   font-display: swap;
@@ -2387,7 +2387,7 @@
 /* U+FF00-FFEF Medium */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Medium-half-full.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Medium-half-full.woff2') format('woff2');
   unicode-range: U+FF00-FFEF;
   font-weight: 500;
   font-display: swap;
@@ -2396,7 +2396,7 @@
 /* U+FF00-FFEF Bold */
 @font-face {
   font-family: 'Maple Mono NF CN';
-  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@v1.0/MapleMono-NF-CN-Bold-half-full.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Halo94361/maple-font@variable/MapleMono-NF-CN-Bold-half-full.woff2') format('woff2');
   unicode-range: U+FF00-FFEF;
   font-weight: 700;
   font-display: swap;
